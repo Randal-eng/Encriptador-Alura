@@ -306,6 +306,9 @@ top: 683px;
 
    }
 
+   .ocultar{
+    display: none;
+}
    .texto-error h3, .texto-error p{
         position: relative;
         top: 0;
@@ -340,6 +343,6 @@ align-self: stretch;
 flex-grow: 0;
     
    }
- 
+
 
 }
